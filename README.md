@@ -4,8 +4,7 @@ While building this you will learn how to create completely new screens,
 how to present them from your main screen, and how to pass data from one screen to another.
 
 
-
-http://g.recordit.co/LBeNbVXK1R.gif
+img src="http://g.recordit.co/LBeNbVXK1R.gif" width=200><br>
 
 ## Required
 - [x] User can open the creation screen
